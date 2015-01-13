@@ -21,16 +21,15 @@ codepen=(
      "popup http://codepen.io/ionic/pen/zkmhJ"
      "pulltorefresh http://codepen.io/ionic/pen/mqolp"
      "radio http://codepen.io/ionic/pen/saoBG"
-     "tabs http://codepen.io/ionic/pen/skbxh"
-     "tinder http://codepen.io/ionic/pen/nxEdH"
-     "toggles http://codepen.io/ionic/pen/tfAzj"
-     "scrollxy http://codepen.io/ionic/pen/mwFuh"
      "shrinkingheader http://codepen.io/ionic/pen/hIzFp"
      "sideexposed http://codepen.io/ionic/pen/cDbFg"
      "sidemenu http://codepen.io/ionic/pen/tcIGK"
      "signin http://codepen.io/ionic/pen/CbBsA"
      "slidebox http://codepen.io/ionic/pen/AjgEB"
      "swipeable http://codepen.io/ionic/pen/skbxh"
+     "tabs http://codepen.io/ionic/pen/odqCz"
+     "tinder http://codepen.io/ionic/pen/nxEdH"
+     "toggles http://codepen.io/ionic/pen/tfAzj"
    )
 
 if [ ! -d "codepenTests" ]; then
